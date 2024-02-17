@@ -1,0 +1,4 @@
+requests
+mplsoccer
+scraperfc
+sb_api pip install git+https://github.com/torvaney/statsbombapi.git
