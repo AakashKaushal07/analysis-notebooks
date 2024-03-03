@@ -3,3 +3,5 @@ notebook-env
 *.xlsx
 *.csv
 *.pdf
+Notebooks/Prev*
+__pycache__

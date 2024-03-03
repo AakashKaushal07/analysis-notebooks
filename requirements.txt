@@ -1,4 +1,9 @@
 requests
 mplsoccer
 scraperfc
-sb_api pip install git+https://github.com/torvaney/statsbombapi.git
+git+https://github.com/torvaney/statsbombapi.git
+statsbombpy
+statsbomb
+socceraction
+soccerdata
+jupyter
