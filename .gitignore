@@ -5,3 +5,4 @@ notebook-env
 *.pdf
 Notebooks/Prev*
 __pycache__
+*-checkpoint.ipynb
